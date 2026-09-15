@@ -1,8 +1,8 @@
 cask "bentomux" do
-  version "0.2.12"
-  sha256 "07d7a440f44cd438d382212c30f5288c654d96a388135a2c168a59826f3b2b74"
+  version "0.2.13"
+  sha256 "9b1eecc25be5802ac2710724b97b5a6896b30d003e8a5c7be33a8e6fbc31da72"
 
-  url "https://github.com/takora-dev/bentomux-v2/releases/download/v0.2.12/Bentomux_0.2.12_universal.dmg"
+  url "https://github.com/takora-dev/bentomux-v2/releases/download/v0.2.13/Bentomux_0.2.13_universal.dmg"
   name "Bentomux"
   desc "Calm desktop for AI agent runtime workspaces"
   homepage "https://github.com/takora-dev/bentomux-v2"
