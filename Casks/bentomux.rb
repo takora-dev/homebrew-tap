@@ -1,6 +1,6 @@
 cask "bentomux" do
   version "0.2.77"
-  sha256 "f1638e2dad143feb1919a48616945dfd490aaa16b03555dd453edd46098f88de"
+  sha256 "a26cca1f8022b63ae41c806ae5b174eebc13e04ff24b0cec72b00cfe43118d21"
 
   url "https://github.com/takora-dev/bentomux/releases/download/v0.2.77/Bentomux_0.2.77_universal.dmg"
   name "Bentomux"
